@@ -2,20 +2,23 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+h1 {
+    background-color: rgb(44, 62, 16);
+    color: white;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
 ol, ul {
     background-color: rgb(44, 62, 16);
     color: white;
     font-size: 36px;
+    font-weight: 700;
     }
     
     ul li, ol li {
     color: green;
-    }
-    
-    ul li {
-    font-size: 14px;
-    }
-    
-    ol li {
     font-size: 24px;
+    font-weight: 300;
     }
