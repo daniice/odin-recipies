@@ -1,0 +1,21 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol, ul {
+    background-color: rgb(44, 62, 16);
+    color: white;
+    font-size: 36px;
+    }
+    
+    ul li, ol li {
+    color: green;
+    }
+    
+    ul li {
+    font-size: 14px;
+    }
+    
+    ol li {
+    font-size: 24px;
+    }

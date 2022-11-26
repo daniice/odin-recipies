@@ -1,17 +1,15 @@
-ol, ul {
-background-color: hsl(120, 50, 10);
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
 color: white;
-size: 36px;
+background-color: hsl(120, 50, 10);
+text-align: center;
+font-size: 36px;
+font-weight: 700;
 }
 
-ul li, ol li {
+.mainlink {
 color: hsl(120, 50, 10);
-}
-
-ul li {
-size: 14px;
-}
-
-ol li {
-size: 24px;
 }
