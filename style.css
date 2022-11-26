@@ -1,0 +1,17 @@
+ol, ul {
+background-color: hsl(120, 50, 10);
+color: white;
+size: 36px;
+}
+
+ul li, ol li {
+color: hsl(120, 50, 10);
+}
+
+ul li {
+size: 14px;
+}
+
+ol li {
+size: 24px;
+}
